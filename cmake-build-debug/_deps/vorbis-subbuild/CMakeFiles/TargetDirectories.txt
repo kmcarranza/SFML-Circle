@@ -1,0 +1,3 @@
+C:/Users/Giovanna/CLionProjects/SFML-Circle/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate.dir
+C:/Users/Giovanna/CLionProjects/SFML-Circle/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/Giovanna/CLionProjects/SFML-Circle/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/rebuild_cache.dir

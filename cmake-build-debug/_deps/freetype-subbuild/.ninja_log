@@ -1,0 +1,21 @@
+# ninja log v6
+3	121	7651785310933775	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	3f730fb59423deb5
+3	121	7651785310933775	C:/Users/Giovanna/CLionProjects/SFML-Circle/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	3f730fb59423deb5
+122	227898	7651787588643082	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	a8e381b6ff7a21aa
+122	227898	7651787588643082	C:/Users/Giovanna/CLionProjects/SFML-Circle/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	a8e381b6ff7a21aa
+227898	228238	7651787588792451	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	11af1cd04a99bbde
+227898	228238	7651787588792451	C:/Users/Giovanna/CLionProjects/SFML-Circle/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	11af1cd04a99bbde
+228238	228358	7651787593266728	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	76aa75a161d825cb
+228238	228358	7651787593266728	C:/Users/Giovanna/CLionProjects/SFML-Circle/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	76aa75a161d825cb
+228359	228476	7651787594470034	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	518a8c0679405a62
+228359	228476	7651787594470034	C:/Users/Giovanna/CLionProjects/SFML-Circle/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	518a8c0679405a62
+228476	228591	7651787595609741	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	3189c8b6a4d4404e
+228476	228591	7651787595609741	C:/Users/Giovanna/CLionProjects/SFML-Circle/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	3189c8b6a4d4404e
+228591	228722	7651787596913935	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	21584b61d92fc3c3
+228591	228722	7651787596913935	C:/Users/Giovanna/CLionProjects/SFML-Circle/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	21584b61d92fc3c3
+228722	228840	7651787598118567	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	b777de1d8879e86
+228722	228840	7651787598118567	C:/Users/Giovanna/CLionProjects/SFML-Circle/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	b777de1d8879e86
+228841	229016	7651787599854530	CMakeFiles/freetype-populate-complete	7e89fadcb8ccd044
+228841	229016	7651787599854530	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	7e89fadcb8ccd044
+228841	229016	7651787599854530	C:/Users/Giovanna/CLionProjects/SFML-Circle/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	7e89fadcb8ccd044
+228841	229016	7651787599854530	C:/Users/Giovanna/CLionProjects/SFML-Circle/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	7e89fadcb8ccd044
