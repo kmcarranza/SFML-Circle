@@ -17,6 +17,8 @@ int main()
             //Draw Circle
             sf::CircleShape circle;
             circle.setRadius(50);
+
+            // Fill Circle with Green
             circle.setFillColor(sf::Color::Green);
             window.draw(circle);
             window.display();
